@@ -1,0 +1,5 @@
+- 👋 Hi, Im an russian cheat & backend developer
+- 👀 I’m interested in any game to cheat it
+- 🌱 I’m currently learning Cpp
+- 💞️ I’m looking to collaborate on a big backend proyect
+- 📫 You cant reach me, it you want to contact with me dont do it, i do it...
